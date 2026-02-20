@@ -1,7 +1,6 @@
-"*.log" 
-"logs/" 
-"*.tmp" 
-"*.bak" 
-"*.properties" 
-"*.env" 
-"*.env" 
+*.log
+logs/
+*.tmp
+*.bak
+*.properties
+*.env
